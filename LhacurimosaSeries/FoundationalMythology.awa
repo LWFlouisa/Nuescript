@@ -1,0 +1,342 @@
+# #################################################################################### #
+#                                  Foundational Mythology                              #
+# #################################################################################### #
+# The setting of Uploaded Fairy assumes an alternative history timeline where France   #
+# and Japan are locked in interwar civil conflict using low yield weaponry between the #
+# main narrative segments: the paranormal romance story and the cyberpunk narrative of #
+# the second part.                                                                     #
+# #################################################################################### #
+encrire CONTEXT
+hlim 2 :nuclear_civil_war nuclear_war_between_warring_states :unclaimed_regions unclaimed_regions_divide_the_factions :underground_cities underground_cities_are_where_most_humans_live
+
+encrire LORE
+hlim 2 :military_scientist a_military_scientist_rescued_halfkorean_refugees :border_towns border_towns_breed_resistence_movements :guillotine_western a_future_where_guillotine_is_default_execution_device
+
+encrire PLOT RELATED
+hlim 2 :security_guards a_group_of_security_guards_defend_military_scientist :insurgency_brewing an_insurgent_movement_of_romarean_refugees_allying_with_sympathtic_french :mutated_fauna mutated_fauna_are_primary_threat_to_players
+
+encrireln HEMATOS STORY
+encrireln Initial Information
+hlim 2 :clinical_vampirism hemato_has_a_thing_for_blood :apprentice_executioner the_father_of_hemato_works_as_head_executioner :absent_mother hematos_mom_is_absent
+
+encrireln Secondary Information
+hlim 2 :early_2000s_education hemato_went_to_high_school_in_early_2000s :school_club_frequency hemato_only_went_to_school_club_invited_by_best_friend :split_lasagna hematos_and_ehena_split_lasagna
+
+encrireln Tertiary Information
+hlim 2 :prelude_civil_war hemato_grew_up_before_factional_wars :paranormal_romance hematos_relationship_modeled_after_paranormal_romance :dreamspace_as_virtual_reality the_subconcious_is_adapted_into_vr_as_infrastructure
+
+encrireln EHENAS STORY
+encrireln Immigration Status
+hlim 2 :born_in_alsace ehena_is_born_in_alsace :japanese_mother ehenas_mother_is_japanese :french_father ehenas_father_is_alsatian
+
+encrireln Backstory Angle
+hlim 2 :murdered_brothers ehena_murdered_her_two_brothers :institutionalized ehenas_is_instutionalized :sail_to_new_world ehena_travels_to_new_world
+
+encrireln Deep Lore
+hlim 2 :demonic_posession ehena_posessed_by_kumabatto_de_les_ghoules :murdered_father murdered_her_father :uncertain_identity ehenas_fathers_identity_is_uncertain
+
+# #################################################################################### #
+#                              Refuge Hubs And Nexus Points                            #
+# #################################################################################### #
+# Venice Like
+encrireln Venice Like
+hlim 2 :log_skeleton cross_sections_of_logs :gravel_filler filler_made_of_gravel_and_desert_sand :stone_and_wood_slabs floor_made_of_stone_and_wood_slabs
+
+# Venice Like Docks
+encrireln Venice Docks
+hlim 2 :sand ground_made_of_sand cross_sections_of_logs :filler filler_made_of_sand :flooring floor_made_of_stone_slabs_and_wood_slabs
+
+# Cobblestone Islands: Sub-Liminal Islands
+encrireln Sub Liminal Islands
+hlim 2 :ground ground_made_of_stone_and_cobble_stone :filler filler_made_of_sand :flooring floor_made_of_stone_and_wood_slabs
+
+# Ancient Ruins
+encrireln Ancient Ruins
+hlim 2 :ground ground_made_of_mossy_cobble_stone :walls walls_of_marble :filler filler_made_of_gravel_and_desert_sand
+hlim 2 :ground ground_made_of_mossy_cobble_stone :crosssections cross_sections_of_logs :marble_walls walls_of_marble
+
+# #################################################################################### #
+#                            Genetic Probability Distribution                          #
+# #################################################################################### #
+encrireln Type 0
+hlim 2 :hair_color hair_color_is_black :skin_tone medium_dark_skin_tone :eye_color eye_color_is_black_with_light_green
+
+encrireln Type 1
+hlim 2 :hair_color hair_color_is_dark_brown :skin_tone medium_brown_skin_tone :eye_color eye_color_is_dark_blue
+
+encrireln Type 2
+hlim 2 :hair_color hair_color_is_light_brown :skin_tone light_tan_skin_tone :eye_color :eye_color_is_light_green
+
+encrireln Type 3
+hlim 2 :hair_color hair_color_is_light_brown :skin_tone pale_skin_tone :eye_color eye_color_is_yellow
+
+# #################################################################################### #
+#                                   Phonemic Analyses                                  #
+# #################################################################################### #
+# This is for predicting what kind of phonemes are likely to be paired with other      #
+# kinds of consonant-vowel pairs in order to figure out how probable specific kinds of #
+# supernaturally associated language is.                                               #
+# #################################################################################### #
+encrireln FORTUNE
+encrireln BSET
+fort :ba :be :bi ba be bi 0.125 0.3625 0.60
+fort :bo :bu :by bo bu by 0.125 0.3625 0.60
+
+encrireln CSET
+fort :ca :ce :ci ca ce ci 0.125 0.3625 0.60
+fort :co :cu :cy co cu cy 0.125 0.3625 0.60
+
+encrireln DSET
+fort :da :de :di da de di 0.125 0.3625 0.60
+fort :do :du :dy do du dy 0.125 0.3625 0.60
+
+encrireln FSSET
+fort :fsa :fse :fsi fsa fse fsi 0.125 0.3625 0.60
+fort :fso :fsu :fsy fso fsu fsy 0.125 0.3625 0.60
+
+encrireln GSET
+fort :ga :ge :gi ga ge gi 0.125 0.3625 0.60
+fort :go :gu :gy go gu gy 0.125 0.3625 0.60
+
+encrireln LHSET
+fort :lha :lhe :lhi lha lhe lhi 0.125 0.3625 0.60
+fort :lho :lhu :lhy lho lhu lhy 0.125 0.3625 0.60
+
+encrireln NJSET
+fort :nja :nje :nji nja nje nji 0.125 0.3625 0.60
+fort :njo :nju :njy njo nju njy 0.125 0.3625 0.60
+
+encrireln KSET
+fort :ka :ke :ki ka ke ki 0.125 0.3625 0.60
+fort :ko :ku :ky ko ku ky 0.125 0.3625 0.60
+
+encrireln MWSET
+fort :mwa :mwe :mwi mwa mwe mwi 0.125 0.3625 0.60
+fort :mwo :mwu :mwy mwo mwu mwy 0.125 0.3625 0.60
+
+encrireln PSET
+fort :pa :pe :pi pa pe pi 0.125 0.3625 0.60
+fort :po :pu :py po pu py 0.125 0.3625 0.60
+
+encrireln QSET
+fort :qa :qe :qi qa qe qi 0.125 0.3625 0.60
+fort :qo :qu :qy qo qu qy 0.125 0.3625 0.60
+
+encrireln TSET
+fort :ta :te :ti ta te ti 0.125 0.3625 0.60
+fort :to :tu :ty to tu ty 0.125 0.3625 0.60
+
+encrireln VSET
+fort :va :ve :vi va ve vi 0.125 0.3625 0.60
+fort :vo :vu :vy vo vu vy 0.125 0.3625 0.60
+
+encrireln XSET
+fort :xa :xe :xi xa xe xi 0.125 0.3625 0.60
+fort :xo :xu :xy xo xu xy 0.125 0.3625 0.60
+
+encrireln HFORTUNE
+encrireln BSET
+hfort :ba :be :bi ba be bi 0.125 0.3625 0.60
+hfort :bo :bu :by bo bu by 0.125 0.3625 0.60
+
+encrireln CSET
+hfort :ca :ce :ci ca ce ci 0.125 0.3625 0.60
+hfort :co :cu :cy co cu cy 0.125 0.3625 0.60
+
+encrireln DSET
+hfort :da :de :di da de di 0.125 0.3625 0.60
+hfort :do :du :dy do du dy 0.125 0.3625 0.60
+
+encrireln FSSET
+hfort :fsa :fse :fsi fsa fse fsi 0.125 0.3625 0.60
+hfort :fso :fsu :fsy fso fsu fsy 0.125 0.3625 0.60
+
+encrireln GSET
+hfort :ga :ge :gi ga ge gi -0.125 -0.3625 -0.60
+hfort :go :gu :gy go gu gy -0.125 -0.3625 -0.60
+
+encrireln LHSET
+hfort :lha :lhe :lhi lha lhe lhi -0.125 -0.3625 -0.60
+hfort :lho :lhu :lhy lho lhu lhy -0.125 -0.3625 -0.60
+
+encrireln NJSET
+hfort :nja :nje :nji nja nje nji -0.125 -0.3625 -0.60
+hfort :njo :nju :njy njo nju njy -0.125 -0.3625 -0.60
+
+encrireln KSET
+hfort :ka :ke :ki ka ke ki -0.125 -0.3625 -0.60
+hfort :ko :ku :ky ko ku ky -0.125 -0.3625 -0.60
+
+encrireln MWSET
+hfort :mwa :mwe :mwi mwa mwe mwi -0.125 -0.3625 -0.60
+hfort :mwo :mwu :mwy mwo mwu mwy -0.125 -0.3625 -0.60
+
+encrireln PSET
+hfort :pa :pe :pi pa pe pi -0.125 -0.3625 -0.60
+hfort :po :pu :py po pu py -0.125 -0.3625 -0.60
+
+encrireln QSET
+hfort :qa :qe :qi qa qe qi -0.125 -0.3625 -0.60
+hfort :qo :qu :qy qo qu qy -0.125 -0.3625 -0.60
+
+encrireln TSET
+hfort :ta :te :ti ta te ti -0.125 -0.3625 -0.60
+hfort :to :tu :ty to tu ty -0.125 -0.3625 -0.60
+
+encrireln VSET
+hfort :va :ve :vi va ve vi -0.125 -0.3625 -0.60
+hfort :vo :vu :vy vo vu vy -0.125 -0.3625 -0.60
+
+encrireln XSET
+hfort :xa :xe :xi xa xe xi -0.125 -0.3625 -0.60
+hfort :xo :xu :xy xo xu xy -0.125 -0.3625 -0.60
+
+# #################################################################################### #
+#                            Powered Armor Characteristics                             #
+# #################################################################################### #
+# Originally these were suppose to be robot pets ( think monster tamer type game ) but #
+# later on were reinterpreted by the system as really being analogies about powered    #
+# armour suits, which only makes sense if one knew I started out writing about field   #
+# field nurses when I wrote science fiction.                                           #
+# #################################################################################### #
+encrireln Stroopwoofels
+hlim 2 :vanilla vanilla_flavored_stroops :chocolate chocolate_flavored_stroops :strawberry strawberry_flavored_stroops
+
+encrireln Tulips
+hlim 2 :yellow yellow_tulips :pink pink_tulips :edible edible_stew_tulips
+
+encrireln Clogs
+hlim 2 :yellow yellow_klompen :pink pink_klompen :blue blue_klompen
+
+encrireln Robot Anatomy
+hlim 2 :shoulder shoulder_of_robot :lower_shoulder lower_shoulder_of_robot :elbow elbow_of_humanoid_robot
+
+encrireln Robot Tasks
+hlim 2 :coffee_delivery humanoid_robot_delivers_coffee :package_delivery humanoid_robot_delivers_packages :security monitoring_perimeter_trespassing
+
+encrireln Assisted Activities
+hlim 2 :automated_wheelchairs humanoid_robot_automating_wheelchairs :robotic_extensions data_used_to_track_robotic_arm_shops :auto_pilot autopilot_when_human_is_tired
+
+encrireln Stealth Mechanics
+hlim 2 :lure "lure" :stun "stun" :trap "trap"
+
+encrireln Battle Mechanics
+hlim 2 :epee epee :ishi ishi :bache bache
+
+# #################################################################################### #
+#                             Shadow And Persona Analyses                              #
+#                      General Dream And Psychological Structures                      #
+# #################################################################################### #
+encrire HEMATO TOMATO
+hlim 2 :shadow aspect_of_self_someone_denies :persona how_someone_presents_to_the_world :ego cognitive_distance_between_shadow_and_persona
+hlim 2 :father the_patriarchal_figure_in_life :the_mother the_matriarchal_figure_inlife :the_child aspects_of_the_character_that_remain_innocent
+
+hlim 2 :the_apocalypse The_end_of_an_old_way_of_thinking_and_the_birth_of_new_world_view :the_chevreshanshoo Closely_related_to_the_self_represents_the_primary_things_the_shadow_fears :the_mandala is_the_geometric_configuration_of symbols_relevant_to_the_person_in_their_waking_life
+
+hlim 2 :salamander_riding_got goat_riding_the_salamander_that_ends_the_world :medusahoseki the_crystal_or_stone_that_freezes_the_world :equilibrium the_balance_between_the_temperatures
+
+espace
+
+encrireln Initial Information
+hlim 2 :clinical_vampirism hemato_has_a_thing_for_blood :apprentice_executioner the_father_of_hemato_works_as_head_executioner :absent_mother hematos_mom_is_absent
+
+encrireln Secondary Information
+hlim 2 :early_2000s_education hemato_went_to_high_school_in_early_2000s :school_club_frequency hemato_only_went_to_school_club_invited_by_best_friend :split_lasagna hematos_and_ehena_split_lasagna
+
+encrireln Tertiary Information
+hlim 2 :prelude_civil_war hemato_grew_up_before_factional_wars :paranormal_romance hematos_relationship_modeled_after_paranormal_romance :dreamspace_as_virtual_reality the_subconcious_is_adapted_into_vr_as_infrastructure
+
+espace
+
+encrire EHENA MARIE
+encrireln Immigration Status
+hlim 2 :born_in_alsace ehena_is_born_in_alsace :japanese_mother ehenas_mother_is_japanese :french_father ehenas_father_is_alsatian
+
+encrireln Backstory Angle
+hlim 2 :murdered_brothers ehena_murdered_her_two_brothers :institutionalized ehenas_is_instutionalized :sail_to_new_world ehena_travels_to_new_world
+
+encrireln Deep Lore
+hlim 2 :demonic_posession ehena_posessed_by_kumabatto_de_les_ghoules :murdered_father murdered_her_father :uncertain_identity ehenas_fathers_identity_is_uncertain
+
+espace
+
+hlim 2 :shadow aspect_of_self_someone_denies :persona how_someone_presents_to_the_world :ego cognitive_distance_between_shadow_and_persona
+hlim 2 :father the_patriarchal_figure_in_life :the_mother the_matriarchal_figure_inlife :the_child aspects_of_the_character_that_remain_innocent
+
+hlim 2 :the_apocalypse The_end_of_an_old_way_of_thinking_and_the_birth_of_new_world_view :the_chevreshanshoo Closely_related_to_the_self_represents_the_primary_things_the_shadow_fears :the_mandala is_the_geometric_configuration_of symbols_relevant_to_the_person_in_their_waking_life
+
+hlim 2 :salamander_riding_got goat_riding_the_salamander_that_ends_the_world :medusahoseki the_crystal_or_stone_that_freezes_the_world :equilibrium the_balance_between_the_temperatures
+
+# #################################################################################### #
+#                                  LHACURIMOSA GUIDE                                   #
+# #################################################################################### #
+# This goes into specific narrative elements that are suppose to exist within context  #
+# of the epilogue after the end of the second part of Uploaded Fairy. All the other    #
+# novels are set during the interwar period between French loyalist and japanese       #
+# loyalist factions.                                                                   #
+# #################################################################################### #
+encrireln DESCEDANTS
+hlim 2 :hemato_tomato descendants_from_hemato_tomato :ehena_marie descendants_of_ehena_marie :no_survivors a_time_line_where_lineages_ran_out
+
+# Approximate Distance In Traumatic Memories For No Lineages
+mperiod 0.007702871343749999 150 0.007702871343749999 0.007702871343749999 150 0.007702871343749999
+
+espace
+
+encrireln LOCATIONS
+hlim 2 :japanese_pacific_states states_presently_controlled_by_japan :unclaimed_regions regions_where_refugees_make_a_new_life :french_atlantic_states french_territories_of_neo_colonialism
+
+espace
+
+encrireln ENEMIES
+hlim 2 :acid_drgons acid_dragons_resist_the_low_ph_of_the_sea :sea_gargoyals sea_gargoyals_guard_the_ancient_temple :acid_serpent the_acid_serpent_sprays_low_ph_at_you
+
+espace
+
+encrireln STATS
+hlim 2 :neck_hp neck_hp_represents_how_long_till_you_die :clothing_durability clothing_durability determine_how_long_till_armor_wears_out :lunar_calender lunar_caldner_influences_base_stats
+
+espace
+
+encrireln STEALTH
+hlim 2 :lure Explicitely_lures_the_enemy_in_your_direction :stun Ambiguously_indirect_or_agressive :trap Permanently_or_semi_permanently_immoblizes_the_opponent
+
+espace
+
+encrireln ACTIVE
+hlim 2 :epee epee_representing_a_french_fencing_weapon :ishi ishi_as_a_stone_you_dull_the_sword :tarp bache_is_french_for_tarp
+
+# #################################################################################### #
+#                                     Bequest Dieties                                  #
+# #################################################################################### #
+# This brings back the diety mechanics of Bequest De Cendres which later morphed into  #
+# Lhacurimosa. Lhacurimosa is the feminine declined version of the nueter term         #
+# Lhacurimose. The dieties in this segment represents different forms of supernatural  #
+# torment the MC goes through.                                                         #
+# #################################################################################### #
+encrireln dakupreiste / the dark priest
+hlim 2 :favor you_are_favored_by_the_diety :disfavor you_are_disfavored_by_the_diety :nuetral the_diety_is_indifferent_to_you
+
+encrireln mort_naussance / diety of stillbirth
+hlim 2 :favor you_are_favored_by_the_diety :disfavor you_are_disfavored_by_the_diety :nuetral the_diety_is_indifferent_to_you
+
+encrireln bourreau_de_karma / execution of karma
+hlim 2 :favor you_are_favored_by_the_diety :disfavor you_are_disfavored_by_the_diety :nuetral the_diety_is_indifferent_to_you
+
+encrireln horyo_de_noir / thief in black
+hlim 2 :favor you_are_favored_by_the_diety :disfavor you_are_disfavored_by_the_diety :nuetral the_diety_is_indifferent_to_you
+
+# #################################################################################### #
+#                                  Dungeon Crawler Mobs                                #
+# #################################################################################### #
+encrireln STANDARD MONSTERS
+hlim 7 :rat a_common_rat :araignee a_common_spider :gobelin a_common_gobelin
+
+encrireln UNDEAD RELATED
+hlim 7 :squelette le_squelette :limon le_limon :donjon_unique one_way_Dungeon
+
+encrireln LOVECRAFTIAN CREATURES
+hlim 7 :acideserupenete acid_serpent :acideduragone acid_dragon :noneseturasona treasonous_nun
+
+encrireln BOSSES
+hlim 7 :sepeceterekimige sceptre_king :habucorosa female_elder_god :sepecetere_imeperaterica sceptre_king
