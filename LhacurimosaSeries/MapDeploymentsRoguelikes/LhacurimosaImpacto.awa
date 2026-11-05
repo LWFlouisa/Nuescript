@@ -1,0 +1,107 @@
+# #################################################################################### #
+#                             Lhacurimosa Prediction Algorithm                         #
+# #################################################################################### #
+# This is the Lhacurimosa prediction algorithm that represents a valid use case for    #
+# intended gameplay features. I wrote this because people kept taking elements out of  #
+# context and using it in their on fanon content on youtube, or twisting it for        #
+# purposes I do not condone or support. All requests for extra features for warlike    #
+# purposes will be refused, and unauthorized changes reverted.                         #
+# #################################################################################### #
+
+# #################################################################################### #
+#                                   Lunar Phase Impacts                                #
+# #################################################################################### #
+(encrireln Lunair De Grande)
+(hlim 2 :new_moon new_moon :waxing_crescent waxing_crescent :first_quarter first_quarter)
+(hlim 2 :waxing_gibbous waxing_gibbous :full_moon full_moon :waning_gibbous  waning_gibbous)
+(hlim 2 :last_quarter last_quarter :waning_crescent waning_crescent :ambiguous uncertain_phase)
+
+(espace)
+
+(encrireln Lunair De Oublie)
+(hlim 2 :new_moon new_moon :waxing_crescent waxing_crescent :first_quarter first_quarter)
+(hlim 2 :waxing_gibbous waxing_gibbous :full_moon full_moon :waning_gibbous  waning_gibbous)
+(hlim 2 :last_quarter last_quarter :waning_crescent waning_crescent :ambiguous uncertain_phase)
+
+(espace)
+
+(encrireln Lunair De Impact)
+(hlim 2 :new_moon new_moon :waxing_crescent waxing_crescent :first_quarter first_quarter)
+(hlim 2 :waxing_gibbous waxing_gibbous :full_moon full_moon :waning_gibbous  waning_gibbous)
+(hlim 2 :last_quarter last_quarter :waning_crescent waning_crescent :ambiguous uncertain_phase)
+
+(espace)
+
+# #################################################################################### #
+#                                     Bequest Dieties                                  #
+# #################################################################################### #
+# This brings back the diety mechanics of Bequest De Cendres which later morphed into  #
+# Lhacurimosa. Lhacurimosa is the feminine declined version of the nueter term         #
+# Lhacurimose. The dieties in this segment represents different forms of supernatural  #
+# torment the MC goes through.                                                         #
+# #################################################################################### #
+(espace)
+
+(encrireln dakupreiste / the dark priest
+(hlim 2 :favor you_are_favored_by_the_diety :disfavor you_are_disfavored_by_the_diety :nuetral the_diety_is_indifferent_to_you
+
+(espace)
+
+(encrireln mort_naussance / diety of stillbirth
+(hlim 2 :favor you_are_favored_by_the_diety :disfavor you_are_disfavored_by_the_diety :nuetral the_diety_is_indifferent_to_you
+
+(espace)
+
+(encrireln bourreau_de_karma / execution of karma
+(hlim 2 :favor you_are_favored_by_the_diety :disfavor you_are_disfavored_by_the_diety :nuetral the_diety_is_indifferent_to_you
+
+(espace)
+
+(encrireln horyo_de_noir / thief in black
+(hlim 2 :favor you_are_favored_by_the_diety :disfavor you_are_disfavored_by_the_diety :nuetral the_diety_is_indifferent_to_you
+
+# #################################################################################### #
+#                                  Dungeon Crawler Mobs                                #
+# #################################################################################### #
+(encrireln STANDARD MONSTERS)
+(hlim 2 :rat a_common_rat :araignee a_common_spider :gobelin a_common_gobelin)
+
+(espace)
+
+(encrireln UNDEAD RELATED)
+(hlim 2 :squelette le_squelette :limon le_limon :donjon_unique one_way_Dungeon)
+
+(espace)
+
+(encrireln LOVECRAFTIAN CREATURES)
+(hlim 2 :acideserupenete acid_serpent :acideduragone acid_dragon :noneseturasona treasonous_nun)
+
+(espace)
+
+(encrireln BOSSES)
+(hlim 2 :sepeceterekimige sceptre_king :habucorosa female_elder_god :sepecetere_imeperaterica sceptre_king)
+
+(espace)
+
+(encrireln Lovecraftian Entities)
+(hlim 2 :sea_gargoyal sea_gargoyal :acid_dragon acid_dragon :acid_serpent acid_serpent)
+(hlim 2 :traitorous_nun traitorous_nun :cthulhu elder_god :ambiguous uncertain_monster)
+
+# #################################################################################### #
+#                                    Possible Traps                                    #
+# #################################################################################### #
+# Spiked sea raft while visiting island. Pressure plates that behead characters.       #
+# Poison Moss. Mines that spray poison. Traitorous Nuns                                #
+# #################################################################################### #
+(espace)
+
+(hlim 2 :spiked_sea_raft spiked_sea_raft :pressure_plates pressure_plates :poison_moss poison_moss)
+
+(espace)
+
+(hlim 2 :poison_mines poison_mines :guillotine guillotine :ambiguous uncertain_monster)
+
+# #################################################################################### #
+#                                  Possible Mutations                                  #
+# #################################################################################### #
+(hlim 2 :mutation_deformity mutation_deformity :unhealing_wound unhealing_wound :sanity_loss sanity_loss)
