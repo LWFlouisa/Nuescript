@@ -1,0 +1,169 @@
+COLD MAP
+Distance from Medusahoseki ( Medusa Gem ): 149.0 THIS MEMORY WAS FROM A PRIOR 12.0 YEAR PERIOD
+HEAT MAP
+Distance from Nemedusahoseki ( Salamander Riding Goat ): 1.0 THIS MEMORY WAS FROM A PRIOR 12.0 YEAR PERIOD
+
+GENRE ELEMENTS
+:dreamspace_as_virtual_reality, the_subconcious_is_adapted_into_vr_as_infrastructure 0.60898425
+:paranormal_romance, hematos_relationship_modeled_after_paranormal_romance 0.008108285625
+:prelude_civil_war, hemato_grew_up_before_factional_wars 0.008108285625
+
+CONTEXT And PLOT ELEMENTS
+:nuclear_civil_war, nuclear_war_between_warring_states 0.008108285625
+:military_scientist, a_military_scientist_rescued_halfkorean_refugees 0.008108285625
+
+Mythological Elements
+dakupreiste / the dark priest  
+:nuetral, the_diety_is_indifferent_to_you 0.007702871343749999
+:disfavor, you_are_disfavored_by_the_diety 0.007317727776562499
+
+mort_naussance / diety of stillbirth  
+:disfavor, you_are_disfavored_by_the_diety 0.30898424999999996
+:nuetral, the_diety_is_indifferent_to_you 0.45898425
+
+bourreau_de_karma / execution of karma  
+:favor, you_are_favored_by_the_diety 0.0085350375
+:nuetral, the_diety_is_indifferent_to_you 0.30898424999999996
+
+horyo_de_noir / thief in black  
+:favor, you_are_favored_by_the_diety 0.0085350375
+
+ENEMIES  
+:acid_serpent, the_acid_serpent_sprays_low_ph_at_you 0.30898424999999996
+:acid_drgons, acid_dragons_resist_the_low_ph_of_the_sea 0.45898425
+
+LOCATIONS  
+:french_atlantic_states, french_territories_of_neo_colonialism 0.007317727776562499
+:unclaimed_regions, regions_where_refugees_make_a_new_life 0.008108285625
+
+HEMATOS STORY
+:clinical_vampirism, hemato_has_a_thing_for_blood 0.007317727776562499
+:early_2000s_education, hemato_went_to_high_school_in_early_2000s 0.15898425
+:apprentice_executioner, the_father_of_hemato_works_as_head_executioner 0.007702871343749999
+:absent_mother, hematos_mom_is_absent 0.0085350375
+:school_club_frequency, hemato_only_went_to_school_club_invited_by_best_friend 0.15898425
+:split_lasagna, hematos_and_ehena_split_lasagna 0.45898425
+:shadow, aspect_of_self_someone_denies 0.007702871343749999
+:ego, cognitive_distance_between_shadow_and_persona 0.60898425
+:father, the_patriarchal_figure_in_life 0.007702871343749999
+:the_chevreshanshoo, Closely_related_to_the_self_represents_the_primary_things_the_shadow_fears 0.007702871343749999
+:medusahoseki, the_crystal_or_stone_that_freezes_the_world 0.30898424999999996
+
+EHENAS STORY
+:born_in_alsace, ehena_is_born_in_alsace 0.007702871343749999
+:sail_to_new_world, ehena_travels_to_new_world 0.0085350375
+:murdered_brothers, ehena_murdered_her_two_brothers 0.15898425
+:demonic_posession, ehena_posessed_by_kumabatto_de_les_ghoules 0.30898424999999996
+:born_in_alsace, ehena_is_born_in_alsace 0.30898424999999996
+:french_father, ehenas_father_is_alsatian 0.0085350375
+:sail_to_new_world, ehena_travels_to_new_world 0.007317727776562499
+:murdered_father, murdered_her_father 0.60898425
+:shadow, aspect_of_self_someone_denies 0.008108285625
+:persona, how_someone_presents_to_the_world 0.0085350375
+:father, the_patriarchal_figure_in_life 0.15898425
+:the_chevreshanshoo, Closely_related_to_the_self_represents_the_primary_things_the_shadow_fears 0.0085350375
+:the_mandala, is_the_geometric_configuration_of 0.45898425
+:equilibrium, the_balance_between_the_temperatures 0.007317727776562499
+:medusahoseki, the_crystal_or_stone_that_freezes_the_world 0.45898425
+
+DESCEDANTS  
+:ehena_marie, descendants_of_ehena_marie 0.15898425
+:no_survivors, a_time_line_where_lineages_ran_out 0.15898425
+
+MONSTERS AND ENEMIES
+:mutated_fauna, mutated_fauna_are_primary_threat_to_players 0.007317727776562499
+:security_guards, a_group_of_security_guards_defend_military_scientist 0.60898425
+
+Venice Like  
+:stone_and_wood_slabs, floor_made_of_stone_and_wood_slabs 0.15898425
+:gravel_filler, filler_made_of_gravel_and_desert_sand 0.45898425
+
+Venice Docks  
+:cross_sections_of_logs, :filler 0.007702871343749999
+:filler_made_of_sand, :flooring 0.60898425
+
+Sub Liminal Islands  
+:filler, filler_made_of_sand 0.45898425
+:ground, ground_made_of_stone_and_cobble_stone 0.45898425
+
+Ancient Ruins  
+:walls, walls_of_marble 0.45898425
+:ground, ground_made_of_mossy_cobble_stone 0.60898425
+
+Genetic Types
+Type 0  
+:hair_color, hair_color_is_black 0.45898425
+:eye_color, eye_color_is_black_with_light_green
+
+Type 1  
+:hair_color, hair_color_is_dark_brown 0.008108285625
+:skin_tone, medium_brown_skin_tone 0.008108285625
+
+Type 2  
+[ :hair_color, hair_color_is_light_brown 0.15898425
+
+Type 3  
+:eye_color, eye_color_is_yellow 0.45898425
+
+Stroopwoofels  
+:strawberry, strawberry_flavored_stroops 0.008108285625 
+:vanilla, vanilla_flavored_stroops 0.008108285625
+
+Tulips  
+:edible, edible_stew_tulips 0.30898424999999996
+:yellow, yellow_tulips 0.0085350375
+
+Clogs [Color Of Wooden Shoes]
+:blue, blue_klompen 0.0085350375
+
+Robot Anatomy  
+:shoulder, shoulder_of_robot 0.45898425
+
+Robot Tasks  
+:security, monitoring_perimeter_trespassing 0.007702871343749999
+:coffee_delivery, humanoid_robot_delivers_coffee 0.60898425
+
+Assisted Activities  
+:robotic_extensions, data_used_to_track_robotic_arm_shops 0.008108285625
+:automated_wheelchairs, humanoid_robot_automating_wheelchairs 0.007317727776562499
+
+Stealth Mechanics
+:trap, trap 0.008108285625
+:lure, lure 0.30898424999999996
+
+Battle Mechanics  
+:ishi, ishi 0.0085350375
+:bache, bache 0.008108285625
+ 
+STATS  
+:lunar_calender determine_how_long_till_armor_wears_out 0.15898425
+:neck_hp, neck_hp_represents_how_long_till_you_die 0.30898424999999996
+ 
+STEALTH  
+:lure, Explicitely_lures_the_enemy_in_your_direction 0.45898425
+:stun, Ambiguously_indirect_or_agressive ]0.008108285625
+ 
+ACTIVE  
+:ishi, ishi_as_a_stone_you_dull_the_sword ]0.008108285625
+:epee, epee_representing_a_french_fencing_weapon 0.007317727776562499
+
+STANDARD MONSTERS  
+:rat, a_common_rat 0.0085350375
+:araignee, a_common_spider 0.008108285625
+:gobelin, a_common_gobelin 0.008108285625
+
+DUNGEON TYPES
+:donjon_unique, one_way_Dungeon 0.45898425
+
+UNDEAD RELATED  
+:limon, le_limon 0.45898425
+:squelette, le_squelette 0.0085350375
+
+LOVECRAFTIAN CREATURES  
+:acideduragone, acid_dragon 0.45898425
+:acideserupenete, acid_serpent 0.007702871343749999
+
+BOSSES 
+:noneseturasona, treasonous_nun 0.008108285625 
+:sepecetere_imeperaterica, sceptre_king 0.008108285625
+:habucorosa, female_elder_god 0.45898425
