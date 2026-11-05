@@ -1,0 +1,178 @@
+COLD MAP
+Distance from Medusahoseki ( Medusa Gem ): 149.0 THIS MEMORY WAS FROM A PRIOR 12.0 YEAR PERIOD
+HEAT MAP
+Distance from Nemedusahoseki ( Salamander Riding Goat ): 1.0 THIS MEMORY WAS FROM A PRIOR 12.0 YEAR PERIOD
+
+CONTEXT
+:underground_cities, underground_cities_are_where_most_humans_live 0.60898425 
+:nuclear_civil_war, nuclear_war_between_warring_states 0.0085350375
+
+LORE
+:guillotine_western, a_future_where_guillotine_is_default_execution_device 0.30898424999999996
+:military_scientist, a_military_scientist_rescued_halfkorean_refugees 0.008108285625
+
+PLOT RELATED
+:security_guards, a_group_of_security_guards_defend_military_scientist 0.007317727776562499
+:insurgency_brewing, an_insurgent_movement_of_romarean_refugees_allying_with_sympathtic_french 0.60898425
+
+HEMATOS STORY  
+Initial Information 
+:clinical_vampirism, hemato_has_a_thing_for_blood 0.0085350375
+:apprentice_executioner, the_father_of_hemato_works_as_head_executioner 0.15898425
+:absent_mother, hematos_mom_is_absent 0.007702871343749999
+:school_club_frequency, hemato_only_went_to_school_club_invited_by_best_friend 0.30898424999999996
+:split_lasagna, hematos_and_ehena_split_lasagna 0.45898425
+:early_2000s_education, hemato_went_to_high_school_in_early_2000s 0.0085350375
+:dreamspace_as_virtual_reality, the_subconcious_is_adapted_into_vr_as_infrastructure 0.15898425
+:paranormal_romance, hematos_relationship_modeled_after_paranormal_romance 0.30898424999999996
+
+:persona, how_someone_presents_to_the_world 0.15898425
+:ego, cognitive_distance_between_shadow_and_persona 0.30898424999999996
+:the_child, aspects_of_the_character_that_remain_innocent 0.45898425
+:the_mother, the_matriarchal_figure_in_life 0.60898425
+:the_chevreshanshoo, Closely_related_to_the_self_represents_the_primary_things_the_shadow_fears 0.007317727776562499
+:the_mandala, is_the_geometric_configuration_of 0.30898424999999996
+:medusahoseki, the_crystal_or_stone_that_freezes_the_world 0.007317727776562499
+
+EHENAS STORY  
+Immigration Status  
+:french_father, ehenas_father_is_alsatian 0.60898425
+:japanese_mother, ehenas_mother_is_japanese 0.45898425
+:sail_to_new_world, ehena_travels_to_new_world 0.007702871343749999 
+:murdered_father, murdered_her_father 0.007317727776562499
+:uncertain_identity, ehenas_fathers_identity_is_uncertain 0.15898425
+
+Venice Like  
+:log_skeleton, cross_sections_of_logs 0.008108285625
+:gravel_filler, filler_made_of_gravel_and_desert_sand 0.007702871343749999
+
+Venice Docks
+filler_made_of_sand, :flooring 0.60898425
+
+Sub Liminal Islands  
+:ground, ground_made_of_stone_and_cobble_stone 0.0085350375
+:filler, filler_made_of_sand 0.15898425
+
+Ancient Ruins  
+:crosssections, cross_sections_of_logs 0.45898425
+:ground, ground_made_of_mossy_cobble_stone 0.007702871343749999
+
+Genetic type 
+:hair_color, hair_color_is_light_brown 0.60898425
+:hair_color, hair_color_is_black 0.15898425
+:hair_color, hair_color_is_light_brown 0.15898425
+:eye_color, :eye_color_is_light_green 0.60898425
+:eye_color, eye_color_is_dark_blue 0.007702871343749999
+
+Stroopwoofels  
+:strawberry, strawberry_flavored_stroops 0.15898425
+:chocolate, chocolate_flavored_stroops 0.007702871343749999
+
+Tulips  
+:pink, pink_tulips 0.007317727776562499
+
+Clogs  
+:yellow, yellow_klompen 0.0085350375
+:blue, blue_klompen 0.007317727776562499
+
+Robot Anatomy  
+:elbow, elbow_of_humanoid_robot 0.30898424999999996
+:shoulder, shoulder_of_robot 0.0085350375
+
+Robot Tasks  
+:package_delivery, humanoid_robot_delivers_packages 0.45898425
+:coffee_delivery, humanoid_robot_delivers_coffee 0.45898425
+
+Assisted Activities  
+:automated_wheelchairs, humanoid_robot_automating_wheelchairs 0.0085350375
+:robotic_extensions, data_used_to_track_robotic_arm_shops 0.007317727776562499
+
+Stealth Mechanics  
+:stun, stun 0.45898425
+:lure, lure 0.15898425
+
+Battle Mechanics  
+:epee, epee 0.0085350375
+ 
+EHENA MARIE Immigration Status  
+:japanese_mother, ehenas_mother_is_japanese 0.30898424999999996
+:born_in_alsace, ehena_is_born_in_alsace 0.007317727776562499
+:institutionalized, ehenas_is_instutionalized 0.60898425
+:sail_to_new_world, ehena_travels_to_new_world 0.30898424999999996
+:demonic_posession, ehena_posessed_by_kumabatto_de_les_ghoules 0.60898425
+:uncertain_identity, ehenas_fathers_identity_is_uncertain 0.15898425
+ 
+:persona, how_someone_presents_to_the_world 0.0085350375
+:ego, cognitive_distance_between_shadow_and_persona 0.30898424999999996 
+:father, the_patriarchal_figure_in_life 0.60898425
+:the_child, aspects_of_the_character_that_remain_innocent 0.007317727776562499
+:medusahoseki, the_crystal_or_stone_that_freezes_the_world 0.15898425
+
+DESCEDANTS  
+:ehena_marie, descendants_of_ehena_marie 0.008108285625
+:no_survivors, a_time_line_where_lineages_ran_out 0.0085350375
+ 
+LOCATIONS  
+:french_atlantic_states, french_territories_of_neo_colonialism 0.60898425
+:unclaimed_regions, regions_where_refugees_make_a_new_life 0.60898425
+ 
+ENEMIES  
+:acid_drgons, acid_dragons_resist_the_low_ph_of_the_sea 0.60898425
+:sea_gargoyals, sea_gargoyals_guard_the_ancient_temple 0.007702871343749999
+ 
+STATS
+:lunar_calender determine_how_long_till_armor_wears_out 0.007317727776562499
+:clothing_durability, clothing_durability 0.15898425
+ 
+STEALTH  
+:stun, Ambiguously_indirect_or_aggressive 0.007702871343749999
+:lure, Explicitely_lures_the_enemy_in_your_direction 0.15898425
+ 
+ACTIVE  
+:tarp, bache_is_french_for_tarp 0.008108285625
+:ishi, ishi_as_a_stone_you_dull_the_sword 0.45898425
+
+dakupreiste / the dark priest  
+:favor, you_are_favored_by_the_diety 0.45898425
+:nuetral, the_diety_is_indifferent_to_you 0.15898425
+
+mort_naussance / diety of stillbirth  
+:favor, you_are_favored_by_the_diety 0.008108285625
+:nuetral, the_diety_is_indifferent_to_you 0.15898425
+
+bourreau_de_karma / execution of karma  
+:nuetral, the_diety_is_indifferent_to_you 0.007317727776562499
+:disfavor, you_are_disfavored_by_the_diety 0.45898425
+
+horyo_de_noir / thief in black  
+:favor, you_are_favored_by_the_diety 0.008108285625
+:nuetral, the_diety_is_indifferent_to_you 0.60898425
+
+STANDARD MONSTERS  
+[ :rat, a_common_rat ] 
+BIANCA: 0.45898425 has not reached the highest limit in probability.
+BIANCA: 0.45898425 has not reached the lowest limit in probability.
+BIANCA: 0.45898425 is floating around medium probability.
+[ :gobelin, a_common_gobelin ] 
+BIANCA: 0.007317727776562499 has not reached the highest limit in probability.
+BIANCA: 0.007317727776562499 has reached the lowest limit in probability.
+BIANCA: 0.007317727776562499 is not floating around medium probability.
+[ :araignee, a_common_spider ] 
+BIANCA: 0.45898425 has not reached the highest limit in probability.
+BIANCA: 0.45898425 has not reached the lowest limit in probability.
+BIANCA: 0.45898425 is floating around medium probability.
+
+UNDEAD RELATED  
+:donjon_unique, one_way_Dungeon 0.007317727776562499
+:limon, le_limon 0.0085350375
+:squelette, le_squelette 0.008108285625
+
+LOVECRAFTIAN CREATURES
+:acideduragone, acid_dragon 0.45898425
+:noneseturasona, treasonous_nun 0.30898424999999996
+:acideserupenete, acid_serpent 0.15898425
+
+BOSSES  
+:sepeceterekimige, sceptre_king 0.008108285625
+:sepecetere_imeperaterica, sceptre_king 0.007702871343749999
+:habucorosa, female_elder_god 0.45898425
