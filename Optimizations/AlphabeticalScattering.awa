@@ -1,0 +1,15 @@
+# ############################################################################## #
+#                        Scattering In Alphabetical Order                        #
+# ############################################################################## #
+
+# Initial Obelisk
+(obelisk1 black_hair)
+(obelisk2 black_hair green_eyes)
+
+# Scash comes before Scawa
+(encrireln Scashing Obelisk)
+(scash)
+
+# Scawa comes after scash
+(encrireln Scawaing Obelisk)
+(scawa)
